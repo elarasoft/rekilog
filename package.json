@@ -1,0 +1,24 @@
+{
+  "name": "react-rekilog",
+  "version": "1.0.0",
+  "description": "This is a logging tool for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elarasoft/react-rekilog.git"
+  },
+  "keywords": [
+    "log",
+    "react",
+    "next.js"
+  ],
+  "author": "Rekimart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elarasoft/react-rekilog/issues"
+  },
+  "homepage": "https://github.com/elarasoft/react-rekilog#readme"
+}
